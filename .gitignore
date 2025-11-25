@@ -42,10 +42,14 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Data (uncomment if data files are large)
-# data/
-# *.csv
-# *.txt
+# Data files (exclude large datasets)
+data/USCS-1999-2022-ASCII/
+data/TCGA/*.js
+data/TCGA/*.tsv
+data/TCGA/*.txt
+# Keep README files in data directories
+!data/TCGA/TCGA-README
+!data/**/*.md
 
 # Results and outputs
 results/
