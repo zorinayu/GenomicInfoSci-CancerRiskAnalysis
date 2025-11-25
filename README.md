@@ -53,13 +53,39 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+4. Download the USCS data (see [Data](#data) section below) and place the files in `data/USCS-1999-2022-ASCII/`.
+
 ## Data
 
 This project uses publicly available USCS (U.S. Cancer Statistics) ASCII incidence tables from 1999-2022. The data files should be placed in `data/USCS-1999-2022-ASCII/`.
 
-Key files:
+### Data Source
+
+The USCS data can be downloaded from the official CDC website:
+
+**Download Link**: [CDC U.S. Cancer Statistics Data Tables](https://www.cdc.gov/united-states-cancer-statistics/dataviz/data-tables.html)
+
+### Download Instructions
+
+1. Visit the [CDC Data Tables page](https://www.cdc.gov/united-states-cancer-statistics/dataviz/data-tables.html)
+2. Select the **1999-2022** data set (or your preferred time range)
+3. Download the delimited ASCII files
+4. Extract the files and place them in the `data/USCS-1999-2022-ASCII/` directory
+
+### Key Data Files
+
+The following files are used in this analysis:
 - `BYAGE.TXT`: Age-specific incidence for all cancer sites combined
 - `BRAINBYSITE.TXT`: Brain and nervous system tumor incidence
+
+### Data Usage Disclaimer
+
+By using these data, you agree to comply with the following requirements:
+- These data are provided for statistical reporting and analysis purposes only
+- CDC's Policy on Releasing and Sharing Data prohibits linking these data with other data sets for the purpose of identifying an individual
+- All material in the reports are in the public domain and may be reproduced or copied without permission (citation requested)
+
+For more information, please refer to the [CDC U.S. Cancer Statistics website](https://www.cdc.gov/united-states-cancer-statistics/index.html).
 
 ## Usage
 
