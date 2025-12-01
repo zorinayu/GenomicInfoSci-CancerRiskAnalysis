@@ -126,3 +126,65 @@ def prepare_all_sites_age_data(by_age):
     
     return all_sites_age_inc
 
+
+def get_site_age_incidence(by_age, site_name, target_year=2020):
+    """
+    Prepare age-specific incidence data for a given cancer site.
+
+    This function aggregates over sex (summing COUNT and POPULATION) to obtain
+    an "all sexes" age–incidence curve, then filters to a single calendar year.
+
+    Parameters
+    ----------
+    by_age : DataFrame
+        Raw BYAGE data.
+    site_name : str
+        Site name as recorded in the USCS BYAGE table
+        (e.g., "Colon and Rectum", "Lung and Bronchus").
+    target_year : int, default=2020
+        Calendar year to extract.
+
+    Returns
+    -------
+    tuple
+        (ages, rates, df_year) where:
+        - ages: numpy array of age midpoints
+        - rates: numpy array of incidence rates (per 100,000)
+        - df_year: filtered DataFrame for the specified year and site
+    """
+    from .utils import age_group_to_mid
+
+    df = by_age.copy()
+    # Filter by event type, race, and site; keep all sexes, aggregate later
+    df_site = df[
+        (df["EVENT_TYPE"] == "Incidence")
+        & (df["RACE"] == "All Races")
+        & (df["SITE"] == site_name)
+    ].copy()
+
+    if df_site.empty:
+        return None, None, df_site
+
+    # Ensure numeric
+    for col in ["COUNT", "POPULATION"]:
+        if col in df_site.columns:
+            df_site[col] = pd.to_numeric(df_site[col], errors="coerce")
+
+    # Aggregate over sex: sum counts and population by AGE and YEAR
+    agg = (
+        df_site
+        .groupby(["AGE", "YEAR"], as_index=False)
+        .agg({"COUNT": "sum", "POPULATION": "sum"})
+    )
+    agg["RATE"] = agg["COUNT"] / agg["POPULATION"] * 100000.0
+    agg["AGE_MID"] = agg["AGE"].apply(age_group_to_mid)
+    agg = agg[agg["AGE_MID"].notna()].copy()
+
+    df_year = agg[pd.to_numeric(agg["YEAR"], errors="coerce") == target_year].copy()
+    df_year = df_year.sort_values("AGE_MID")
+
+    ages = df_year["AGE_MID"].values
+    rates = df_year["RATE"].values
+
+    return ages, rates, df_year
+
