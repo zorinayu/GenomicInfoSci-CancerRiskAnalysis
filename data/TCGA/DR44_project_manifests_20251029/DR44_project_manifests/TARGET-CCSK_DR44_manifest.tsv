@@ -1,0 +1,225 @@
+id	filename	md5	size	state	acl	project_id	category
+00cfd97c-b6c5-44eb-86ed-45d572d06757	TARGET-CCSK.bd8fea7d-6a51-5165-893e-4b5669603c0a.gene_level_copy_number.v36.tsv	a9c0092e5a7b6036976467c2ca0f4546	3446751	released	[b'open']	TARGET-CCSK	data_file
+034f118e-3d04-4b0c-8f3a-2768c63a4cad	TARGET-51-PAJMFS-11A-01D.CEL	a1f27092ac174601de6508718ff54606	69095606	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+042481a9-41eb-4490-b948-1640ed9c3643	0583d75f-8eaf-49fb-a74b-33e36040063f.rna_seq.transcriptome.gdc_realn.bam	39b39cca5eb6e90800948213cff8e8f0	25962975329	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+de1370d1-b0b0-4a41-8532-0ae7e1769bcc	e5464cf4-8a28-4ff1-89ab-0f07b737b21b.gdc_liftover.vcf.gz.tbi	10f12ff1274b9c4cdca54832f43e6530	1789599	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+09b1d762-29a1-4a94-ad73-3bd888b12356	e5464cf4-8a28-4ff1-89ab-0f07b737b21b.gdc_liftover.vcf.gz	706ef00d9077f087191330e4a8faae2d	363479149	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+0a0d2ba3-42ea-41a0-a74b-dc5a8a39022f	TARGET_CCSK_ClinicalData_Discovery_20230322.xlsx	18c88e7a0ba48fac324a9fbce3ed33bc	14111	released	[b'open']	TARGET-CCSK	data_file
+0a35a476-51d3-4c27-8c6b-197c3675790a	TARGET-51-PAEALX-01A-01D.CEL	b824c922b3c3f9ece0de2e99ed38e888	69083662	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+0b61a5b0-ac09-4199-98ec-86a667b4cd62	TARGET-CCSK.a767e926-0340-4151-86c3-bcf98fb41508.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+0c24dfc2-386a-4e52-87d8-233a5e84d1c4	TARGET-CCSK.5f83d321-cfd6-5de1-8177-fda25ef4719a.ascat2.allelic_specific.seg.txt	8aaa3eaeebeef776b3aceaa2093e57d4	14369	released	[b'open']	TARGET-CCSK	data_file
+ee9ca4c2-ff66-4796-8660-962e5846796a	a153b25a-e822-421c-b847-0862d0e180d0.rna_seq.genomic.gdc_realn.bam.bai	cd7829e8593d7635210c7bfda72a8eee	7540672	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+10580057-d71d-4eb7-be42-b27f2219717a	a153b25a-e822-421c-b847-0862d0e180d0.rna_seq.genomic.gdc_realn.bam	ef061690f16ba8a5b93e9c39e312d0bc	18667137179	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+10df3653-538e-4f85-903d-4d29be33cf08	d6159f30-3397-4475-bf5a-53a3699f5afa.methylation_array.sesame.level3betas.txt	7814e36d45051067eec158d9872ec0f2	13178719	released	[b'open']	TARGET-CCSK	data_file
+11fdb9d3-d88a-4594-b735-66d5771919c2	53c067b6-68ab-4ec8-9423-578d6f5bf6a2.methylation_array.sesame.level3betas.txt	e2a46b7a26ecb54c3afe5f208ff5be85	13148957	released	[b'open']	TARGET-CCSK	data_file
+137d2cdc-8bcf-47ce-a06f-875044052145	TARGET-CCSK.a5a9aa0c-80d1-4830-9d71-765e80aab0c7.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+a065a2fb-0673-4573-ba22-1d8af1cabc15	367e7156-c77f-4fcb-b284-a05dc33c1354.rna_seq.chimeric.gdc_realn.bam.bai	ae737553bd4676bf8b80b9cc925a4cac	2641520	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+16aaaad0-1234-4676-b1e7-c93a7f4fe6b4	367e7156-c77f-4fcb-b284-a05dc33c1354.rna_seq.chimeric.gdc_realn.bam	1475ffe151ff2c78826e3bdbd897edf5	156320154	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+16b4ded5-b49d-472e-aa8e-f0e9a6c61c76	TARGET-CCSK.e62e6ae4-437c-41e9-ae66-50ed743ec2dd.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+f1ba607a-3cf9-46b3-bec6-fce9409e7e75	09f923c4-f81d-403a-9b4c-30a1ff9b4d08.gdc_liftover.vcf.gz.tbi	cab685ea717fec2e824d1f49b315dd36	1785258	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+17178044-9913-4624-87a5-7badd38484c0	09f923c4-f81d-403a-9b4c-30a1ff9b4d08.gdc_liftover.vcf.gz	488d2c67c74d6619ee01cba1d975bfc2	357938571	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+22d4ed8c-8a93-444d-bef1-3495bd8ea1fb	4615fc0c-8685-43bb-89f5-d225f56e7b65.rna_seq.chimeric.gdc_realn.bam.bai	647e0c21b78ecb0c1d2b54e7a584d383	2557840	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+1873c5fa-c984-4bea-b8b9-f9a42c8f853b	4615fc0c-8685-43bb-89f5-d225f56e7b65.rna_seq.chimeric.gdc_realn.bam	7092524a1159b42f8954216cdf736af2	144496677	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+19e889d1-a433-4c77-9456-d6d9f1bd464f	0583d75f-8eaf-49fb-a74b-33e36040063f.rna_seq.augmented_star_gene_counts.tsv	88af5bae000486e4f09426eb743e5237	4220363	released	[b'open']	TARGET-CCSK	data_file
+1a0fd699-8133-4e48-9068-dc6d5794e0a9	TARGET_CCSK_SampleMatrix_20160929.xlsx	d5d4d6a67a86f302257e75da67902821	30726	released	[b'open']	TARGET-CCSK	data_file
+1bd59144-ef98-45c9-bebd-7468cd3cc11a	TARGET-CCSK.db5fdc57-a07b-4403-9093-aa7e20294ecf.arriba.rna_fusion.bedpe	8bd715c7ddc5551aa17f43b3f71d8c1f	3459	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+0d2a5c9d-3d3c-4280-8952-1b7de5433e72	43825520-989b-4a4b-8ac3-3f23b40031d7.rna_seq.genomic.gdc_realn.bam.bai	35e673147bc8e268df216fe2c80a7a02	6279240	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+1d29cff2-b176-4f02-b5b9-d82f82941913	43825520-989b-4a4b-8ac3-3f23b40031d7.rna_seq.genomic.gdc_realn.bam	2bd39b236f3efc48746e2166600c4286	16448229020	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+1d3593a6-fa39-40e2-b593-f97e7a47499d	d505538b-31de-4413-939a-23832c66df4a_noid_Grn.idat	7031a399a07d1231630e7111134b2160	8095228	released	[b'open']	TARGET-CCSK	data_file
+1ee22590-2068-4e91-a5bc-96f4ac7b85ce	8b7012f1-9615-4d66-a01c-04cfbb9fef71.methylation_array.sesame.level3betas.txt	0e98e6511a0fa5ea5b812e372e34bb86	13129987	released	[b'open']	TARGET-CCSK	data_file
+1fac5d1e-24f7-475a-88e3-6f8bdca1871c	TARGET-CCSK.60b7761c-f275-4827-9865-cf2946e20d63.arriba.rna_fusion.bedpe	0dddb98609afe44c15c3a1fac1bd3509	2425	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+229afac6-f70a-4f87-8b7f-27c1b461b90e	624001c2-277c-4faf-8d2f-54c792157a9c.rna_seq.star_splice_junctions.tsv.gz	2f3c05285d7b2350b2b9fb6752e79b28	3147824	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+8617cd98-6056-4e31-98f5-caeaedfa59e5	0583d75f-8eaf-49fb-a74b-33e36040063f.rna_seq.genomic.gdc_realn.bam.bai	73a0d93a16854224cf56aa53aa492d3d	7417280	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+24e7b7d6-6839-4a0e-b344-a3c3c5f06430	0583d75f-8eaf-49fb-a74b-33e36040063f.rna_seq.genomic.gdc_realn.bam	36f274c5a243467ea61a9527548d9c8a	19350946102	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+08fc3f41-688b-4334-95d3-49273a0efb3a	478b59e7-509f-4c1a-af20-cb6e4cd3b0a0.rna_seq.genomic.gdc_realn.bam.bai	eaf87d7e062eb5cf4fde052974622d7a	6890928	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+259b1199-6c43-4a72-9fce-06b046ece18e	478b59e7-509f-4c1a-af20-cb6e4cd3b0a0.rna_seq.genomic.gdc_realn.bam	acebfb1109bd4490f8ae189efd37a593	16758788463	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+25d69bff-e234-49c6-a636-d344f096c0fc	TARGET-CCSK.5f83d321-cfd6-5de1-8177-fda25ef4719a.gene_level_copy_number.v36.tsv	74561e71fdc5bbde46ebdefe24bfe4e5	3446858	released	[b'open']	TARGET-CCSK	data_file
+285fe5b0-1cb1-4c2d-b333-6abf31842a84	df6e27bd-0dad-417e-89ba-7f4a63df7f05.rna_seq.augmented_star_gene_counts.tsv	af62e9eb2f19a1e4545a83ff1ab8ac4c	4216221	released	[b'open']	TARGET-CCSK	data_file
+2a3d800c-d180-48e3-9e52-e387989ec602	TARGET-CCSK.8dfccce2-7f83-442a-9f65-5e608e5226ad.arriba.rna_fusion.bedpe	b0fa7cf6de05a642ec18468266828738	1974	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+2a7012a5-0a01-4bad-8870-4117377ea074	TARGET-CCSK.6a783385-0c24-520c-b400-8b31b85e463e.gene_level_copy_number.v36.tsv	765977866dcad3d6fe42641d599553eb	3446741	released	[b'open']	TARGET-CCSK	data_file
+2ae9f8b8-2b6d-4e77-9708-853971dac577	TARGET-CCSK.37a42929-45bf-4d90-92bd-fdaab05e5af6.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+2b8b8f86-7ea8-4372-be82-a46753b43d05	TARGET-51-PALFEF-01A-01D.CEL	25e81f5164785a81569b4f40d411464d	69081622	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+53d62713-a515-4042-9e57-fcd91efbbbe4	1a175cde-276f-4156-8d87-f710b923bc50.rna_seq.genomic.gdc_realn.bam.bai	1bac1ae5c5d2f792458d7cb7c821ec8c	6917464	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+36d444fa-5b11-4110-a16b-cbb575a36982	1a175cde-276f-4156-8d87-f710b923bc50.rna_seq.genomic.gdc_realn.bam	708359bcab749633e4e385c9938dbcda	16801579013	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+3721a1b4-42a8-4ca2-a1b4-f89de14f5043	d505538b-31de-4413-939a-23832c66df4a.methylation_array.sesame.level3betas.txt	dfa0efe92613c64cd3c20be78ca017bc	13161375	released	[b'open']	TARGET-CCSK	data_file
+383ab359-de5e-4afe-8ffe-81eb931c3f32	TARGET-CCSK.3f889c79-3aa5-4d06-825c-d7d8f9e4072d.arriba.rna_fusion.bedpe	e43a69898632e1b99e224034e3b7dedb	1514	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+39026e52-a65f-4428-9ec9-04986e71507d	TARGET-CCSK.04b9ef31-6a8b-5049-abf2-14b352503712.ascat2.allelic_specific.seg.txt	2d6476319d42265d0dfc2a1cf7e98336	4370	released	[b'open']	TARGET-CCSK	data_file
+3a3cf518-0a17-448d-9ae6-51077d4adebc	472024c9-030f-49d5-a779-57dfbe8caa84_noid_Red.idat	bbb08b0a55cc1e0a65793ad6a9c96a46	8095231	released	[b'open']	TARGET-CCSK	data_file
+3e15a5c3-f48f-4b7a-9725-8d23f38ed026	TARGET-CCSK.92b2c329-2aca-40ba-8993-765b2e8dd6a5.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+4010a27c-f063-4bfd-8f22-1de4afabc11b	a86f4268-5602-4758-93cf-2adcbdc522b0_noid_Red.idat	87250de9693cd303419a4a96b1e41070	8095226	released	[b'open']	TARGET-CCSK	data_file
+405c679f-42f5-486c-9ba1-285bfa0abc08	6b74b2a1-a2c3-4a4a-904c-3587ce38644c.rna_seq.star_splice_junctions.tsv.gz	0353b416e8f1a2cb363f8d1294f8bc07	2971270	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+41aceba8-8a5f-4cfd-918b-490747e8584c	edd754cd-cb9c-4201-8eb4-2b58566c20d0.methylation_array.sesame.level3betas.txt	7ed535ebf8a61d4a30209240dd8f93fe	13160829	released	[b'open']	TARGET-CCSK	data_file
+41cedc0c-10b6-4016-9a16-2d288ef301d5	TARGET-CCSK.9c77057d-f9d7-495b-9484-563edb4ea942.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+42919675-ded4-49ca-b928-02d46bf9b330	43825520-989b-4a4b-8ac3-3f23b40031d7.rna_seq.star_splice_junctions.tsv.gz	0ebe2c88c9406fa1d5a8c89870f99e27	3194085	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+4444c73f-f9af-4c24-b280-26ab52845033	53c067b6-68ab-4ec8-9423-578d6f5bf6a2_noid_Red.idat	0a407253626f8d666edc55582b5f2d6f	8095225	released	[b'open']	TARGET-CCSK	data_file
+44aabe40-e651-4a2f-b896-5db3a330f21a	TARGET-CCSK.c981367e-b193-594e-9af8-24042e48aced.gene_level_copy_number.v36.tsv	d729027863181e62342936cd951c0c72	3446867	released	[b'open']	TARGET-CCSK	data_file
+454c8398-f16b-488b-9072-4edf7293d16d	0583d75f-8eaf-49fb-a74b-33e36040063f.rna_seq.star_splice_junctions.tsv.gz	5bb430c5cb942ea33f103e9c09234737	3157786	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+47bd6849-9a8a-43b9-ae88-aeaf9a4f8f70	TARGET-51-PAJLWU-01A-01D.CEL	676c5eceff22124fc7534c6dc49e6735	69090422	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+0a7104d9-368d-4aaf-8b4c-8b4d80b2ef26	4615fc0c-8685-43bb-89f5-d225f56e7b65.rna_seq.genomic.gdc_realn.bam.bai	d8f1bad730b4669ad09e48e94b66283a	6775472	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+482ced2f-a4b6-49c3-bef3-d985052a797d	4615fc0c-8685-43bb-89f5-d225f56e7b65.rna_seq.genomic.gdc_realn.bam	e1f92604abaad3f7b26c2033ec16c8a5	17451901401	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+48683dfd-1518-4d90-b155-263bf08b00e2	1a034e50-3d61-4c33-94e9-b53b9bb42ded.methylation_array.sesame.level3betas.txt	eca63093e045ec5c115c2eb18918db50	13158856	released	[b'open']	TARGET-CCSK	data_file
+48724e13-d5ab-4321-b80f-283dd0b6beb8	TARGET-CCSK.6b77af23-7be0-48f3-b9fe-2c6ad3b8edef.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+490d674c-cf85-4e59-8553-53c59a6d7d96	f16d81d3-ee5b-4158-8758-a10559b00065_noid_Grn.idat	1742a08bd9d53577ecfd3871ff2069e6	8095222	released	[b'open']	TARGET-CCSK	data_file
+4efd7c02-bad9-462f-b9c7-17dfc6d0b732	TARGET-51-PALKEI-10A-02D.CEL	641ad7946a6807b9213f5b686b8b1618	69096586	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+8726e271-cbb4-4767-adef-bd7a38f0d26f	6c64cdff-d2fa-4a2a-b0ee-453fa18aaea0.gdc_liftover.vcf.gz.tbi	f5901abd623170df1a5eb5c673e22dc0	1822939	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+52ec3392-7483-42b5-a7fb-6a301913dbfb	6c64cdff-d2fa-4a2a-b0ee-453fa18aaea0.gdc_liftover.vcf.gz	bba6d72cea0604b6bf1be91e7f318d24	421812099	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+53923ec8-7105-4b10-a1d4-dbd9e054d2e5	df6e27bd-0dad-417e-89ba-7f4a63df7f05.rna_seq.star_splice_junctions.tsv.gz	be2c160aa9c7ed954191df258b247181	3128512	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+53eee10a-6599-4f03-8681-ed887817be93	d505538b-31de-4413-939a-23832c66df4a_noid_Red.idat	58834309ee052d0b29edc574d4b8a2d4	8095228	released	[b'open']	TARGET-CCSK	data_file
+5434a2ea-4b55-4eb8-ac73-7ad41b7c108f	TARGET-CCSK.a6bd20fc-347c-46f9-a245-20f8f8659df6.arriba.rna_fusion.bedpe	4937a0dd03d9bdaf761074b2abeda644	1935	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+5626cc2e-8dd8-460a-bdbe-78adecc5f086	TARGET-51-PAJPFB-01A-01D.CEL	34bae019e5606148b8b9132141e0aab5	69083198	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+57c21dac-eef0-43f3-b7a6-d01b5318dd43	a86f4268-5602-4758-93cf-2adcbdc522b0.methylation_array.sesame.level3betas.txt	43f570c9faa8a5ed6843a0b1f674f2d9	13187296	released	[b'open']	TARGET-CCSK	data_file
+5907140d-860b-4899-9681-a2cf5301e4e7	8b7012f1-9615-4d66-a01c-04cfbb9fef71_noid_Grn.idat	10c691be1b21e193fa61a09f1a9341ba	8095228	released	[b'open']	TARGET-CCSK	data_file
+5a4b8dbe-2189-4a5e-82fc-b04412895b76	624001c2-277c-4faf-8d2f-54c792157a9c.rna_seq.augmented_star_gene_counts.tsv	0861004174285f4c23037b22312f026e	4222304	released	[b'open']	TARGET-CCSK	data_file
+5abbf65c-2b21-4500-962e-f55daef3a514	472024c9-030f-49d5-a779-57dfbe8caa84_noid_Grn.idat	a28e8326d41680676c89c434e6569800	8095231	released	[b'open']	TARGET-CCSK	data_file
+5c702c45-7c5d-4cd6-8119-bcd50872d815	TARGET-CCSK.04b9ef31-6a8b-5049-abf2-14b352503712.gene_level_copy_number.v36.tsv	6931218e4828475d85b4dd5899b36c5a	3446864	released	[b'open']	TARGET-CCSK	data_file
+5f100b73-e588-4588-96c4-25dd1f52035a	TARGET-51-PALEIR-01A-01D.CEL	9c8cedc1e1bb013127ae11904f08af5f	69044810	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+5f1abcd8-39fd-49e6-9bf3-6271562d2252	8b7012f1-9615-4d66-a01c-04cfbb9fef71_noid_Red.idat	0d78915fd379654873dc2de76f0416f4	8095228	released	[b'open']	TARGET-CCSK	data_file
+5f306a89-5954-498b-a172-f69aa26b2a06	TARGET-51-PALEIR-10A-02D.CEL	6e87df865bbc7e870a232374cd0df876	69080266	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+5f49fd73-361d-425a-951a-48892e818495	53c067b6-68ab-4ec8-9423-578d6f5bf6a2_noid_Grn.idat	ee91e073b96136b85caf53498fbeb6a8	8095225	released	[b'open']	TARGET-CCSK	data_file
+60b1c790-1846-4fa8-b690-09e956d08c2f	TARGET-CCSK.6a783385-0c24-520c-b400-8b31b85e463e.ascat2.allelic_specific.seg.txt	6d63a5f6e3c6217ce85eabcda479a56f	6913	released	[b'open']	TARGET-CCSK	data_file
+6139416d-df72-474b-8b0a-62fce81c4fea	d6159f30-3397-4475-bf5a-53a3699f5afa_noid_Grn.idat	5ad6600e8855cfc63459571c0d927ec9	8095228	released	[b'open']	TARGET-CCSK	data_file
+64032225-75f2-4fdd-a2d4-bce4f8a8475e	TARGET-51-PALFYG-01A-01D.CEL	905890f192db2b45607e8de7a8376b1c	69085230	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+64159a68-8def-4747-9707-12e5ed3440bc	5bf55c52-a251-48ee-8200-9b3cd3bd1c25.rna_seq.transcriptome.gdc_realn.bam	0052eb5ef05b2cac04a84d5fd76b6d7e	20292827205	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+860a381b-eea6-422a-b111-df9ec276fbd3	54968901-2c15-47c2-b32e-7ef6ea616ac6.gdc_liftover.vcf.gz.tbi	340b2c6440c6996cac8dfdec7f15c1c6	1802626	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+6645637b-f5fb-4d1f-9598-e4590f24aca9	54968901-2c15-47c2-b32e-7ef6ea616ac6.gdc_liftover.vcf.gz	a1e6e3eeb0040b989bcf749f7b0df3fd	377888562	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+66d88d93-f9e4-483b-bdac-078e98cffd5a	TARGET-51-PAEALX-11A-01D.CEL	59d6335aff0df9eec0965afcc5f6f601	69060682	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+0fdd04c6-bffa-4df8-8df8-2bf57d658707	cc07adc4-9828-472c-9738-55aab91350b5.gdc_liftover.vcf.gz.tbi	d0c9dc48fe1aec534d37580db0da85e0	1803177	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+68312ab5-e1f4-4546-ac5a-b1c162748095	cc07adc4-9828-472c-9738-55aab91350b5.gdc_liftover.vcf.gz	2083d79a11d8cf350280d36fee66a7b9	378267377	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+482ccb6a-d1cd-4399-ac73-fdc0ba808d5b	6b74b2a1-a2c3-4a4a-904c-3587ce38644c.rna_seq.genomic.gdc_realn.bam.bai	2031697a377ad907910b9ff3387d5850	6518088	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+68fdb39b-cb2e-4fc8-a0ff-2e4da0ce2337	6b74b2a1-a2c3-4a4a-904c-3587ce38644c.rna_seq.genomic.gdc_realn.bam	b0e820db8719f5576aa822efb0cfe585	16294260431	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+69871067-faa0-4e2a-8342-d12f3ee8c0b7	TARGET-51-PALFEF-10A-02D.CEL	34335a89cee4fb7a22c321d1b747dd83	69084382	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+69a8bc7b-ddf0-496f-a525-22589e6751fb	TARGET-CCSK.6d8705ce-a076-4ea0-a734-1834ce7d45b2.arriba.rna_fusion.bedpe	33f8103deda3659c69e6bc952598e740	2365	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+f33db055-8d1c-4165-9f79-712e84d7c90e	6b74b2a1-a2c3-4a4a-904c-3587ce38644c.rna_seq.chimeric.gdc_realn.bam.bai	e5b0cc4db1699d4c2d12a6771201c9db	2769640	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+6b91559f-b923-45dc-8d39-8dad04a3d649	6b74b2a1-a2c3-4a4a-904c-3587ce38644c.rna_seq.chimeric.gdc_realn.bam	c3c9c2856af210304160e39d5ccbb6c3	193816621	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+f8649e1f-e48c-4a89-b640-aa397544d74e	a99d44b0-ae89-49a3-82e3-c44c14d07466.gdc_liftover.vcf.gz.tbi	e8ca23e5b8f18921f8b6f835c57ee917	1841049	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+6d4671ce-24cc-48fd-8b0b-06e7a39bcb98	a99d44b0-ae89-49a3-82e3-c44c14d07466.gdc_liftover.vcf.gz	61c2e26b6655295c7a0d598443f9838d	439282678	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+70cd3d0a-49c4-482b-a141-1824c75b56bc	478b59e7-509f-4c1a-af20-cb6e4cd3b0a0.rna_seq.star_splice_junctions.tsv.gz	0feeb592fbf117fe1363ea3347ac974f	3066350	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+711db01a-6518-44d8-bdc6-6b7dc357df72	f2f11e09-6fce-444d-bff6-4e448b48593a_noid_Red.idat	352d09e2baf116c796b0aa9064ad6608	8095230	released	[b'open']	TARGET-CCSK	data_file
+ba6174c0-d0c7-4ca0-80ce-34796f9ee46c	4e099a89-729b-452f-8d64-62879c06cdf6.rna_seq.genomic.gdc_realn.bam.bai	1bf9d99909d4cc272ccfc0703c994eaf	6979280	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+71640fe1-f982-4013-8a17-b4b121d00669	4e099a89-729b-452f-8d64-62879c06cdf6.rna_seq.genomic.gdc_realn.bam	54f3f1375034d91cb318dba4d9c3ef47	15658217333	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+93a71ba6-af4d-4b83-8785-c495c622e892	df6e27bd-0dad-417e-89ba-7f4a63df7f05.rna_seq.genomic.gdc_realn.bam.bai	b0eeded790c386a345deb27ec6c87ba2	7141480	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+71fd8a45-44bf-4329-bbf6-b843915fde54	df6e27bd-0dad-417e-89ba-7f4a63df7f05.rna_seq.genomic.gdc_realn.bam	db814895533341ee1963029e629580c9	15589564520	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+334d460e-ffdb-4c0e-af22-440495fc9292	b2eeb345-e721-4b30-a2fc-920eb5710345.gdc_liftover.vcf.gz.tbi	6a4554fbd3fe795ff4fd495992258fc4	1822468	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+7367a818-5d7e-47b0-af91-99d2ed29fa65	b2eeb345-e721-4b30-a2fc-920eb5710345.gdc_liftover.vcf.gz	37244d3997d1f859480d1d8ace42e988	398019924	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+8f43136b-7ca7-4119-a342-605a3e17070e	624001c2-277c-4faf-8d2f-54c792157a9c.rna_seq.chimeric.gdc_realn.bam.bai	f903074605b8363ce4d207a997a27175	2648208	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+73e29f7c-f5fc-4cc2-88cf-ef47d3f8520f	624001c2-277c-4faf-8d2f-54c792157a9c.rna_seq.chimeric.gdc_realn.bam	48bb1e33ca438ea9dffa3cbc768f5451	196261015	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+2436b59f-6309-496c-af0c-5471b6a0089f	1f78e628-782f-49b3-9d60-f5a3e64ea130.gdc_liftover.vcf.gz.tbi	71b4aa04c72cce024883f46f19dc77b1	1784588	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+747e36b0-6f9e-4024-9d14-8df63f7a0733	1f78e628-782f-49b3-9d60-f5a3e64ea130.gdc_liftover.vcf.gz	ed4cd8c826dcaf0c98d7cb34146ecdc2	356981341	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+76943c48-7e96-43cf-be9c-075920a72033	TARGET-CCSK.a4eaa639-4c50-4233-b08c-501cdba6f8ca.arriba.rna_fusion.bedpe	871b63f9e3b52f1274feb155f8a58a18	2147	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+fd7a9764-84be-4f90-b775-49bb20b5d6e9	1a175cde-276f-4156-8d87-f710b923bc50.rna_seq.chimeric.gdc_realn.bam.bai	4a5a4bba3b68e6899e6416cc67622426	2682416	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+7750f968-05cd-4a3e-9f7a-e52e9440d81c	1a175cde-276f-4156-8d87-f710b923bc50.rna_seq.chimeric.gdc_realn.bam	d262b1ee50fd17bc60e046ce2e09f134	187797540	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+7977a230-e182-48cc-a9be-17f6c697da3a	4e099a89-729b-452f-8d64-62879c06cdf6.rna_seq.transcriptome.gdc_realn.bam	6080161645cbc40077deacfd54f2bb36	22945437270	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+7df9d295-8d62-45e4-8951-b421726cc307	TARGET-51-PALLXV-11A-01D.CEL	dd88a953c3f1165a9e848be97492fb04	69096722	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+7e2e21f2-d033-4c01-82a6-a9d3d23b9a33	43825520-989b-4a4b-8ac3-3f23b40031d7.rna_seq.transcriptome.gdc_realn.bam	19721a23c70a9a05a63409175a8f3de0	18045614774	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+827e61d3-e3f7-4ba6-92ab-f23750e19ae3	f2f11e09-6fce-444d-bff6-4e448b48593a.methylation_array.sesame.level3betas.txt	2f928fe03d579ac5e40204bd23e82619	13160857	released	[b'open']	TARGET-CCSK	data_file
+2fde7f63-6f05-4afc-b375-edae6b6fa97d	478b59e7-509f-4c1a-af20-cb6e4cd3b0a0.rna_seq.chimeric.gdc_realn.bam.bai	5f6d406adbe886221f7c163d2649cb20	2572920	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+82dec2c8-388d-4a3c-8862-b0410cc9d455	478b59e7-509f-4c1a-af20-cb6e4cd3b0a0.rna_seq.chimeric.gdc_realn.bam	78066c63ba2fc3e6be9088085571a1c6	158374241	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+83bee2ba-2e71-4f01-833a-e36fedad4345	478b59e7-509f-4c1a-af20-cb6e4cd3b0a0.rna_seq.augmented_star_gene_counts.tsv	2c80bd7826e69024be93963610054170	4214032	released	[b'open']	TARGET-CCSK	data_file
+3e766300-48ff-49c7-b8be-56f89f6c4c8a	14fd5b39-eca2-4b6e-981f-16fe225f4ae9.gdc_liftover.vcf.gz.tbi	e57099c5d19ed24b08f33d9b4108181e	1817556	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+83eabdc9-a46e-433d-b1c4-9accfb1aa90a	14fd5b39-eca2-4b6e-981f-16fe225f4ae9.gdc_liftover.vcf.gz	d2ae5af4ffd8c03590df2e3237f345a4	395393990	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+8492f3b5-d453-4afc-93ff-c193c53f9e2f	a153b25a-e822-421c-b847-0862d0e180d0.rna_seq.transcriptome.gdc_realn.bam	288f8db4d4e39b1fda0c9b1e2e546387	24080160019	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+86636aa7-1a64-492e-9ad3-92b0b03fdbe4	TARGET-51-PAJPFB-11A-01D.CEL	897876e55cbc34657cf1ea236895ac09	69085874	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+8777b53e-2227-4c75-8ed9-4c84df910822	TARGET-CCSK.77b81967-f50f-51df-846d-8156bfb48ecf.gene_level_copy_number.v36.tsv	e3e087f9a0064d62a211fefea21728b1	3446867	released	[b'open']	TARGET-CCSK	data_file
+889f2de4-8e90-4456-9136-a88be388a9b7	TARGET-51-PAJMFS-01A-01D.CEL	9b6284adeb0d777060fb9e81e4f11e87	69052350	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+89470452-cf5a-41ff-b95e-df61c4deeb26	TARGET-51-PAJNCV-01A-01D.CEL	3538523499280f5cd1aec81b25b2ab5a	69058166	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+751350bb-c444-4aff-9c75-0bceb244b8a8	43825520-989b-4a4b-8ac3-3f23b40031d7.rna_seq.chimeric.gdc_realn.bam.bai	578db809977ece0673eb7d3161fdbf54	4125824	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+89cd17ca-2ddf-4fc2-9557-e1ef6a078099	43825520-989b-4a4b-8ac3-3f23b40031d7.rna_seq.chimeric.gdc_realn.bam	633f28676cc4ce10ff79d79d833a12e7	195116378	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+cf70470c-528e-4967-bdbe-51908ea14647	a153b25a-e822-421c-b847-0862d0e180d0.rna_seq.chimeric.gdc_realn.bam.bai	469eca2593cb6efefda87273461aab8d	2598544	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+89f921e5-44f8-4165-b50b-080f4d61f075	a153b25a-e822-421c-b847-0862d0e180d0.rna_seq.chimeric.gdc_realn.bam	74eb73b7afe9b4a2fb7413c74a966957	171807532	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+57711573-6380-4fd2-a88d-429d7de47198	1733e69c-64a8-49d9-b76b-ff7017999668.gdc_liftover.vcf.gz.tbi	becd6c12b0c51d7be9dd5e255955c3ad	1796800	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+8abdde39-6de7-4a3e-a191-399dd2ab8f89	1733e69c-64a8-49d9-b76b-ff7017999668.gdc_liftover.vcf.gz	613e69eae65fcb8bbf2013602449a486	371889002	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+8ba8ba69-1fba-4230-a7cc-ea5552ccd2d1	1a175cde-276f-4156-8d87-f710b923bc50.rna_seq.augmented_star_gene_counts.tsv	2e0c0644cb012ccc8c882d9a6c706a09	4220323	released	[b'open']	TARGET-CCSK	data_file
+ac7e51bd-00f2-4357-bf2c-744bbd8cdff1	624001c2-277c-4faf-8d2f-54c792157a9c.rna_seq.genomic.gdc_realn.bam.bai	96da021f16d37d29b4030c88f7bb578f	7212352	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+8bdbf58e-0fff-4690-a013-0583557d2e92	624001c2-277c-4faf-8d2f-54c792157a9c.rna_seq.genomic.gdc_realn.bam	a34250f2b19b6f3a043873740d3d5391	18110500745	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+4827dc39-04ed-4a41-8bb0-fe194c393be5	df6e27bd-0dad-417e-89ba-7f4a63df7f05.rna_seq.chimeric.gdc_realn.bam.bai	25432416194f308c07ca4e15533e7838	2502864	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+8c0eb41f-cff3-4517-be36-4a2583fffa49	df6e27bd-0dad-417e-89ba-7f4a63df7f05.rna_seq.chimeric.gdc_realn.bam	f8ef7a97132606e37579cab5c27037c8	155997401	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+5e2faa7f-4137-40c9-86a1-853086cbf335	4e099a89-729b-452f-8d64-62879c06cdf6.rna_seq.chimeric.gdc_realn.bam.bai	5ece4c012cd333411c46e6d4b2f9b10f	2451320	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+8c23f870-fb54-45b5-a927-40453ecf474b	4e099a89-729b-452f-8d64-62879c06cdf6.rna_seq.chimeric.gdc_realn.bam	6bc156204e74ac3830d7262f8a2b1d36	128765418	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+8ccbc341-e23c-4382-8062-1ec7104b9b2f	1a034e50-3d61-4c33-94e9-b53b9bb42ded_noid_Red.idat	b09558185d76d05061e76e68a49b0d87	8095229	released	[b'open']	TARGET-CCSK	data_file
+8d4c31af-5210-4184-889f-7e300f99edff	TARGET-CCSK.2ede46e0-b4ef-456c-a988-22c670ef1b35.arriba.rna_fusion.bedpe	c1902b9e9fc701f339b5b7b726590f28	1811	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+8e44b254-0ece-4665-98c9-d848c902e324	df6e27bd-0dad-417e-89ba-7f4a63df7f05.rna_seq.transcriptome.gdc_realn.bam	ec9c8d0fb4894f7a71969d0995bc4ccc	19864661817	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+91309e0d-1bd2-4a42-8282-eea62c48c5c2	TARGET-CCSK.3ec89348-1bd7-56d8-8842-1919b2f2d964.ascat2.allelic_specific.seg.txt	4e4027c62371bfeb74386a817885ae18	5181	released	[b'open']	TARGET-CCSK	data_file
+91e6ed00-1987-4d23-aa26-3fb5d2e8d1d2	478b59e7-509f-4c1a-af20-cb6e4cd3b0a0.rna_seq.transcriptome.gdc_realn.bam	8abec07ae6863c809f6b577e74b5590d	20562018026	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+91fabb3c-edf3-43cc-beb9-af44d7b9785b	TARGET_CCSK_ClinicalData_Discovery_Percent_Tumor_Nuclei_and_Necrosis_Supplement_20230322.xlsx	d29bc7fcff3c96f5e6e2f8c2e6e075ee	19600	released	[b'open']	TARGET-CCSK	data_file
+927a0573-0b9c-4c7f-8f87-2d6590ac4468	TARGET-51-PALKEI-01A-01D.CEL	89a126c60857eb0e30c776840c0325e5	69100246	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+93487fc8-6b06-492d-b0a8-3f8bb19e65aa	TARGET-CCSK.873332d0-90f5-4493-8116-42199ba2c306.arriba.rna_fusion.bedpe	bf64b97de07f20b0bd7b1f307a013c9b	1785	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+9507b3c3-3a68-4daf-ba1b-77298a6a377e	43825520-989b-4a4b-8ac3-3f23b40031d7.rna_seq.augmented_star_gene_counts.tsv	dd731afedc379dd86b29583c4be0e4fa	4222133	released	[b'open']	TARGET-CCSK	data_file
+957d516f-4d0d-4f5a-acf3-dd9a0e93534c	TARGET-51-PALFYG-10A-02D.CEL	6c0ef5e7310d320ba8718b77a50675f7	69093550	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+98c1e619-f923-406a-9386-85994c9bc0a6	f16d81d3-ee5b-4158-8758-a10559b00065_noid_Red.idat	9186dff8a73105ed346fa1d14bee5ae3	8095222	released	[b'open']	TARGET-CCSK	data_file
+99530860-cf5d-46d1-94c2-7920bdb60c65	a86f4268-5602-4758-93cf-2adcbdc522b0_noid_Grn.idat	1d1081c042608cc1c7e853ef5019532e	8095226	released	[b'open']	TARGET-CCSK	data_file
+99b90145-bd20-4bff-86c5-bdda962b1dae	TARGET-CCSK.bd8fea7d-6a51-5165-893e-4b5669603c0a.ascat2.allelic_specific.seg.txt	f85612f8959b252e99c3762f378cd6ea	6556	released	[b'open']	TARGET-CCSK	data_file
+9c40018a-d20d-4f4b-95aa-f2278e0957f6	f16d81d3-ee5b-4158-8758-a10559b00065.methylation_array.sesame.level3betas.txt	a93359a29456a87e1bf7f9279f908869	13153061	released	[b'open']	TARGET-CCSK	data_file
+9ca32ce6-4d5e-4b6c-9bdb-c3512caaeb04	TARGET-51-PAJLWU-11A-01D.CEL	7cdd845980765bba5a8fb0345b651221	69052138	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+a401bb21-b119-4480-88ba-6137e4c43510	5bf55c52-a251-48ee-8200-9b3cd3bd1c25.rna_seq.augmented_star_gene_counts.tsv	ffc6b762a975b8c392bab09c2787b01c	4219229	released	[b'open']	TARGET-CCSK	data_file
+a565aa63-7455-44a4-af6c-98dce26d44f2	TARGET-CCSK.11d465ab-b492-5797-b231-057d511c5677.gene_level_copy_number.v36.tsv	481e3dce1d62396787df8fe2f9d23715	3446858	released	[b'open']	TARGET-CCSK	data_file
+a7ab5143-10c5-49f7-95c7-97ec6d93ded7	1a034e50-3d61-4c33-94e9-b53b9bb42ded_noid_Grn.idat	9ee078f25e15e3f76c3b1ced127ba470	8095229	released	[b'open']	TARGET-CCSK	data_file
+a86b2229-6cc3-448b-9772-e8de58ddcbe5	f2f11e09-6fce-444d-bff6-4e448b48593a_noid_Grn.idat	191af30973b327baeb0876587e35d7a8	8095230	released	[b'open']	TARGET-CCSK	data_file
+a964e4e4-413e-4493-949d-1cedfff01c25	4e099a89-729b-452f-8d64-62879c06cdf6.rna_seq.augmented_star_gene_counts.tsv	65ca3d5b8cf94d5fb8d74f94ef6a8170	4208512	released	[b'open']	TARGET-CCSK	data_file
+cf85370a-a41e-4820-8097-e5e1639967c1	5bf55c52-a251-48ee-8200-9b3cd3bd1c25.rna_seq.chimeric.gdc_realn.bam.bai	990f0b6cc1dbd5650c75f6ba90cd1b34	2614480	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+ac78cdf0-e16e-442a-ab9e-96abf8dcf899	5bf55c52-a251-48ee-8200-9b3cd3bd1c25.rna_seq.chimeric.gdc_realn.bam	c6ac3907f5d19504c583731a5f80c064	191017741	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+ad768bcb-e56e-4785-b0cc-c68fca830000	1a175cde-276f-4156-8d87-f710b923bc50.rna_seq.transcriptome.gdc_realn.bam	2cc58bbf10d51b786cf636c694e1c562	18903015208	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+af98e394-2996-4933-bbb9-ba9acb3ff0d9	TARGET-CCSK.53adab51-3e27-5b93-a89a-b2ac40b3330a.gene_level_copy_number.v36.tsv	7c2064248832854abcd64b467d40c2b7	3446858	released	[b'open']	TARGET-CCSK	data_file
+473c4817-380f-470c-8e9a-1f9555ac088c	e790b125-3a6b-438f-9aa7-a7e6bf38c008.rna_seq.chimeric.gdc_realn.bam.bai	9c8a07ce1b7db01bc707029703551791	2496376	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+b4ee7816-694d-486b-a3f4-f7e80f0a7de0	e790b125-3a6b-438f-9aa7-a7e6bf38c008.rna_seq.chimeric.gdc_realn.bam	665190717d3884fcd12bae68911b7296	163643867	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+b65cd7a6-dacb-4be8-9580-87748aece8c8	a153b25a-e822-421c-b847-0862d0e180d0.rna_seq.star_splice_junctions.tsv.gz	cfc2fc41f026e2924d07bc61496c6015	3187901	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+b8677cf7-4d36-43b5-866f-62d2ace5396d	TARGET-CCSK.3ec89348-1bd7-56d8-8842-1919b2f2d964.gene_level_copy_number.v36.tsv	210a15cc75cd7b778e8beb869f0e0732	3446932	released	[b'open']	TARGET-CCSK	data_file
+b9a7ee3a-f456-4020-bc29-ac1cde860a30	TARGET-CCSK.ef413c56-0370-4ce7-b39b-cb7af0777157.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+bcac7871-45bb-4ada-9803-95eadce27eba	367e7156-c77f-4fcb-b284-a05dc33c1354.rna_seq.augmented_star_gene_counts.tsv	0a3579f3c2e37330f16f391dd02de21a	4216746	released	[b'open']	TARGET-CCSK	data_file
+bdfa9f79-f854-4faf-a2c5-a809a819f32d	TARGET-CCSK.11d465ab-b492-5797-b231-057d511c5677.ascat2.allelic_specific.seg.txt	a3398b77debf4a0b47c177b3efe950db	5558	released	[b'open']	TARGET-CCSK	data_file
+bf0b930d-202e-406d-8667-7a48db2d4ad0	653a09aa-7872-49cd-9b47-1a83560afbc5_noid_Grn.idat	44728bc6290d8b4b65b09605778e2cf0	8095228	released	[b'open']	TARGET-CCSK	data_file
+c27613b8-b56e-4b61-9fad-a21b89e2467a	TARGET-CCSK.c981367e-b193-594e-9af8-24042e48aced.ascat2.allelic_specific.seg.txt	b3f74310fcb11ee9d7505e776850276a	4838	released	[b'open']	TARGET-CCSK	data_file
+41de4d6b-3780-45f4-a0de-7c34f57327c5	427bc13d-079e-4f52-a677-f650b4c79673.gdc_liftover.vcf.gz.tbi	7802201f839d999b86dd9608f7ce974d	1826127	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+c2aa5bb3-4157-437f-bc84-2a6dffef76d3	427bc13d-079e-4f52-a677-f650b4c79673.gdc_liftover.vcf.gz	02699eeaa2fb340fb1e83c019b6fc457	423725579	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+c2ca2614-5d54-450b-bb7e-b1418c11e809	4615fc0c-8685-43bb-89f5-d225f56e7b65.rna_seq.star_splice_junctions.tsv.gz	41045fb29f5214b05b28366e368446f2	3229115	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+c4847ab8-0d25-4da9-af21-ea462212aae8	TARGET-CCSK.5935c02f-6540-5eef-91ca-cce876f913a6.ascat2.allelic_specific.seg.txt	5e7b3a0bd6fb1e45176512479023c940	6653	released	[b'open']	TARGET-CCSK	data_file
+c55122a8-548d-4720-8389-bb0f5bb3062b	367e7156-c77f-4fcb-b284-a05dc33c1354.rna_seq.transcriptome.gdc_realn.bam	4be0e7637a3382499df540f858b61af3	18995449812	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+c55f725b-517a-48ac-a40f-778148d2bc6b	624001c2-277c-4faf-8d2f-54c792157a9c.rna_seq.transcriptome.gdc_realn.bam	c316a0c3712ec369ebac624bcdb6d500	19323340944	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+c7b91eff-1cb6-4fbf-b1ed-b8c33321976f	TARGET-CCSK.ba3fd549-522a-462c-95bb-248f5bdc5259.arriba.rna_fusion.bedpe	6ad428126fe3589114263be474581922	1820	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+c847202d-7817-49c5-b3f8-14a8d8ecfd18	TARGET-CCSK.69deb848-a877-4477-a663-8e4d6cd64edb.star_fusion.rna_fusion.bedpe	ea67cdd29a240d96f003cf49248b51ee	532	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+c9a9452d-6054-46bd-8098-65169d5749a0	TARGET-CCSK.5935c02f-6540-5eef-91ca-cce876f913a6.gene_level_copy_number.v36.tsv	aaedbc4196d95ef6ee67b70674a1ea74	3446867	released	[b'open']	TARGET-CCSK	data_file
+cad581d6-bbc6-4836-8729-1f86f8b28039	e790b125-3a6b-438f-9aa7-a7e6bf38c008.rna_seq.star_splice_junctions.tsv.gz	3f2c77e6900347632c1846081b27619c	3113315	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+ccd3191d-168d-4a55-bfcf-1939fdbd5f33	edd754cd-cb9c-4201-8eb4-2b58566c20d0_noid_Grn.idat	bfa04dde82892ea6dd3ac2675c9a78c6	8095230	released	[b'open']	TARGET-CCSK	data_file
+cd82ece5-37fd-4538-98c4-bdc7107524f1	TARGET-CCSK.cf7a227d-928f-4450-8f86-6e39504719fe.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+ce89bbe1-13ea-412f-aae5-ba9b80e0d851	TARGET-51-PALLXV-01A-01D.CEL	781d565941f2d59f3a0c2315526a5a46	69081954	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+d200d689-551a-4bcb-bb53-934eb6b2b5eb	5bf55c52-a251-48ee-8200-9b3cd3bd1c25.rna_seq.star_splice_junctions.tsv.gz	4bf012f61d02e8280c9606dfca51737a	3026302	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+d4948d8c-8b98-402b-a263-7536d5bb7eae	6b74b2a1-a2c3-4a4a-904c-3587ce38644c.rna_seq.transcriptome.gdc_realn.bam	7c8b67412375bd4ac284ea5cc8bf7471	15841742874	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+75758e89-024c-449c-9d62-b286ddbbfc91	96d591b4-d05a-4ba3-80ab-0f38d0e92edc.gdc_liftover.vcf.gz.tbi	f4613ad12f03c352b9a8e18b781e7be1	1816849	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+d624e4ee-8463-4115-a30f-98984185f6ac	96d591b4-d05a-4ba3-80ab-0f38d0e92edc.gdc_liftover.vcf.gz	0d8bbb7283f5d1d6b56a205ab565f542	391509825	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+d7a60cfe-cdfa-4039-b159-bf7c83ae210a	TARGET-CCSK.53adab51-3e27-5b93-a89a-b2ac40b3330a.ascat2.allelic_specific.seg.txt	41945bd0134351d4cf8c898a4d14e0d4	4581	released	[b'open']	TARGET-CCSK	data_file
+d7ddc63e-1a96-45d5-9d7c-2db9c59b0104	TARGET-CCSK.8972776d-d065-45f3-b073-29507fc33284.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+d9711f49-1521-45fe-970a-6ac4077bdc03	TARGET-CCSK.21efbc33-3b33-4ae2-8bae-792e0063d53b.arriba.rna_fusion.bedpe	b6efeedf60202e1accfbdcc5a346906f	2481	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+db013f11-9e71-4031-88b4-a2504a046d5e	653a09aa-7872-49cd-9b47-1a83560afbc5_noid_Red.idat	3cbc1db1f2a9be44917463e4fc1028e3	8095228	released	[b'open']	TARGET-CCSK	data_file
+b1c6434a-09a1-42c2-b20b-2d18175bfbc3	367e7156-c77f-4fcb-b284-a05dc33c1354.rna_seq.genomic.gdc_realn.bam.bai	8db3e138851000bbf35cd6b454b5ca8f	6190088	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+dcd861ba-2650-4352-8cee-1f04c4b99838	367e7156-c77f-4fcb-b284-a05dc33c1354.rna_seq.genomic.gdc_realn.bam	a22f2c6339b997a251a27ca02a931fc4	14494478242	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+dd3c2c5f-7c4a-45d7-b9ab-cf8c0bdc8c82	TARGET-51-PAJNCV-10A-02D.CEL	d3fa8655acddde88c6fe93c302b12ade	69084802	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+dd90c19c-fd77-465f-8814-852997afb20c	d6159f30-3397-4475-bf5a-53a3699f5afa_noid_Red.idat	f21b3065baa71a7cc5de46329c5312d0	8095228	released	[b'open']	TARGET-CCSK	data_file
+dea4c90f-3d65-4182-8be2-041b01d8415d	1a175cde-276f-4156-8d87-f710b923bc50.rna_seq.star_splice_junctions.tsv.gz	5d34dcdc287f9f34b2eafc9fc487f6de	3039825	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+e2815e36-f0f5-4664-982f-693b8138afb6	4615fc0c-8685-43bb-89f5-d225f56e7b65.rna_seq.transcriptome.gdc_realn.bam	d080242bb780889bc6022c1718a44346	23907196317	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+e36ec48c-b5df-46ba-ad4f-c0215184a99b	472024c9-030f-49d5-a779-57dfbe8caa84.methylation_array.sesame.level3betas.txt	e9be48e8cfa848dc5f292a3dc35eda20	13134302	released	[b'open']	TARGET-CCSK	data_file
+e458d46d-a0da-4840-98d5-51721f91af2c	TARGET-CCSK.5e53499f-cab5-4405-b2bd-89c89b17b994.arriba.rna_fusion.bedpe	d84f6413230cb40a9b298d20dd0f1b4c	4491	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+e5c1758c-a84c-451d-a0c1-5b370f3481ee	6b74b2a1-a2c3-4a4a-904c-3587ce38644c.rna_seq.augmented_star_gene_counts.tsv	88dafa5cec8f60b40ee07ba57b932e86	4218356	released	[b'open']	TARGET-CCSK	data_file
+e5f17f1a-a57c-4b60-8925-7d9f88bb3813	edd754cd-cb9c-4201-8eb4-2b58566c20d0_noid_Red.idat	8cc77583a6f2e8d4b014e558976c472b	8095230	released	[b'open']	TARGET-CCSK	data_file
+e731fd3e-4b9f-4aac-9411-1e2d7c821c23	TARGET-CCSK.5d8ee2b5-d998-4745-b55e-1b9b3051a7e8.arriba.rna_fusion.bedpe	b86524538c6686e192f993b0ec7eece4	3827	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+e7e0abe1-9c82-4b18-a561-5e800be4dee6	TARGET-CCSK.dc7a6c98-f05e-4863-8d16-8eb82c27bcbd.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+e8077ae7-dc36-45b4-b6a6-45fc3e95fe82	e790b125-3a6b-438f-9aa7-a7e6bf38c008.rna_seq.augmented_star_gene_counts.tsv	449979d58b87868ab278fd7de6a6be79	4216617	released	[b'open']	TARGET-CCSK	data_file
+e951b81e-65d2-4005-8c2a-ab8a4906ddea	367e7156-c77f-4fcb-b284-a05dc33c1354.rna_seq.star_splice_junctions.tsv.gz	4b944498ad7be86882b22b237767423c	3120332	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+51e81605-5d1b-4bee-a7fd-8d7ce7a57f07	0583d75f-8eaf-49fb-a74b-33e36040063f.rna_seq.chimeric.gdc_realn.bam.bai	065dfc69642b7c86eeff297273c35094	2562904	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+e9bc42df-761f-4f7e-834e-39605a993beb	0583d75f-8eaf-49fb-a74b-33e36040063f.rna_seq.chimeric.gdc_realn.bam	72c78851758bba73b6e46dfb5fa4ae71	194409167	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+ea2e9285-2294-4793-8fb0-64a905de130c	TARGET_CCSK_CDE_20230322.xlsx	71ae62d3c0f2b11c45835b92492b73b9	15557	released	[b'open']	TARGET-CCSK	data_file
+aff03e03-7aed-485c-9cf0-8e843d105021	1ba27422-d078-4429-90de-63cc107b782e.gdc_liftover.vcf.gz.tbi	283aec8be1b7d8ba7fadb415facece05	1813720	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+ed487b1a-14ba-4c21-83bd-fb18b82dffc4	1ba27422-d078-4429-90de-63cc107b782e.gdc_liftover.vcf.gz	3476df7e209920cb83173b1d2f6db987	388442508	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+ed5f3b92-0f1e-4e9c-b913-d533c84786f3	TARGET-CCSK.dc4856e1-f0c0-5ef8-82f7-bfe7d94dcbfd.ascat2.allelic_specific.seg.txt	61b431699542c373f4f1af6415f21dc5	18558	released	[b'open']	TARGET-CCSK	data_file
+a0c16ba0-c4be-4097-aa16-2b92ed783751	e790b125-3a6b-438f-9aa7-a7e6bf38c008.rna_seq.genomic.gdc_realn.bam.bai	f6cd957f64344ae9f22446adcea2e60a	6596768	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+f0b6a1c5-2e2d-4afb-aa32-d5d15f995285	e790b125-3a6b-438f-9aa7-a7e6bf38c008.rna_seq.genomic.gdc_realn.bam	1a0c87ce81a40a33d000cad00eb8c67c	16358257500	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+dc58128e-a6c0-4084-a8a5-5fbfa6497dec	5bf55c52-a251-48ee-8200-9b3cd3bd1c25.rna_seq.genomic.gdc_realn.bam.bai	121847c1c5f2e7fa54e20fcbc6d7bbf7	6526848	released	[b'phs000218', b'phs000466']	TARGET-CCSK	index_file
+f3f6620b-ba2b-4729-b701-b728c7858baa	5bf55c52-a251-48ee-8200-9b3cd3bd1c25.rna_seq.genomic.gdc_realn.bam	725ca4a11f2be4afb25107a1010ded16	17086522135	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+f49e7af3-1d9e-4365-a87a-78fc204a251e	4615fc0c-8685-43bb-89f5-d225f56e7b65.rna_seq.augmented_star_gene_counts.tsv	461a03b36f616fcf186b8d64976a2762	4222145	released	[b'open']	TARGET-CCSK	data_file
+f4f5f2ee-7d9e-48ec-a952-f57eadae2429	4e099a89-729b-452f-8d64-62879c06cdf6.rna_seq.star_splice_junctions.tsv.gz	e430419f67e2dbbf90671176c88f06bf	2962143	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+f5dc0bc5-dc76-4176-a13e-1dd57118f274	TARGET-51-PAKWMM-01A-01D.CEL	ab32c9df9b9d91a7c394a1ccbe9da783	69085118	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+f76aa37c-15ed-4357-a594-4a55bb5c5405	e790b125-3a6b-438f-9aa7-a7e6bf38c008.rna_seq.transcriptome.gdc_realn.bam	139c9f003c4667f2d6923472d76b54ee	23096480493	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+f8287c08-ed08-4979-81fd-81d268200930	TARGET-51-PAKWMM-11A-01D.CEL	b53ab5faf4f0d2fcdae80647d7be3c8d	69080422	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file
+fa0895be-c6a7-42c5-8fe7-533d78cc1266	653a09aa-7872-49cd-9b47-1a83560afbc5.methylation_array.sesame.level3betas.txt	aff8c823a6b939e7f2772e53d991b886	13184451	released	[b'open']	TARGET-CCSK	data_file
+fb14ad8c-72ec-4015-8c1b-723cbcc669f7	a153b25a-e822-421c-b847-0862d0e180d0.rna_seq.augmented_star_gene_counts.tsv	3c03e7261fcd458f2d06803ec6db2d81	4217060	released	[b'open']	TARGET-CCSK	data_file
+fc35a4d0-7bce-439d-8834-e2ca106d83fa	TARGET-CCSK.77b81967-f50f-51df-846d-8156bfb48ecf.ascat2.allelic_specific.seg.txt	bf52c6d8a78564d8014aa2f044c03bfe	6040	released	[b'open']	TARGET-CCSK	data_file
+fdd15d3f-eff8-46a9-bda9-10d2e1f847fb	TARGET-CCSK.dc4856e1-f0c0-5ef8-82f7-bfe7d94dcbfd.gene_level_copy_number.v36.tsv	f708f5a331117faa2933cf2f70c9fe95	3446861	released	[b'open']	TARGET-CCSK	data_file
+fde4d407-f414-4b27-9220-b18d4deff867	TARGET-CCSK.4b4cd405-27d4-4c44-9bb2-519912291f5e.star_fusion.rna_fusion.bedpe	6e5690795ff424264402ab9d2661b62b	229	released	[b'phs000218', b'phs000466']	TARGET-CCSK	data_file

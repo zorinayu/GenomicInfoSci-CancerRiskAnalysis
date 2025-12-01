@@ -1,0 +1,38 @@
+*.pyc
+*.so
+build
+dist
+*.egg-info
+*.iml
+
+# IDE files
+\.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# testing artifacts
+\.coverage
+\.pytest_cache/
+
+# pipenv files
+Pipfile
+Pipfile.lock
+
+# Pyenv
+.python-version
+
+# Jupyter
+.ipynb_checkpoints
+
+# docs artifacts
+docs/_build/
+
+# asv builds
+\.asv/
+
+# Pycharm
+\.idea/
+
+# mypy and tests
+.mypy_cache/
+benchmarks/
