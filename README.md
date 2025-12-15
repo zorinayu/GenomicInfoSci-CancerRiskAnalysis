@@ -1,20 +1,50 @@
 # GenomicInfoSci-CancerRiskAnalysis
 
-Comparative modeling of somatic mutation accumulation for age-dependent cancer risk.
+Comparative modeling of somatic mutation accumulation and survival for **age‑dependent cancer risk**.
 
 ## Project Overview
 
-This project implements and compares multiple models for age-dependent cancer risk using **three complementary data layers**:
+This project implements the proposal of building a **unified, age-dependent cancer risk framework** on three data layers and three models:
 
-- **Population-level incidence (USCS)**: Age-specific cancer incidence curves (all sites and site-specific, e.g. colon and rectum).
-- **Individual-level survival (lifelines)**: Survival datasets (shelf-life experiment and colon cancer survival) used to study lethality and hazard.
-- **Tumor-level genomics (TCGA DR44)**: Project-level metadata from TCGA DR44 used to summarize mutation data coverage across tumor types.
+- **Population-level incidence (USCS)** – age-specific cancer incidence curves for:
+  - **All cancer sites combined**, and
+  - Multiple **site-specific cancers** (colon and rectum, lung and bronchus, female breast, prostate, etc.).
+- **Individual-level survival (lifelines)** – curated survival datasets (primary/secondary shelf life and colon cancer survival) that make **lethality and hazard shapes** explicit.
+- **Tumor-level genomics (TCGA DR44)** – project-level metadata summarizing how many mutation-related data files exist per TCGA project, used as a **cross-scale bridge** from incidence patterns to genomic coverage.
 
-On top of these data layers, the project develops three interconnected models:
+On top of these data layers, the project develops three interconnected models that follow a single storyline:
 
-- **Model A – Probabilistic Mutation-Accumulation Model**: A mechanistic model linking per-division driver mutation probability, stem-cell clone counts, clonal threshold, and repair efficiency to age–incidence curves. Includes analytic P(a) and grid-search calibration of key parameters using USCS all-sites and colon incidence.
-- **Model B – Replicative-Risk / LSCD-Style Model**: A log-linear, cross-tissue model relating incidence to an LSCD-style covariate, combined with USCS age–incidence and TCGA DR44 coverage to explore how frequently each tissue develops cancer and how richly it is represented in genomics data.
-- **Model C – Deterministic Hazard / Empirical Regression Models**: Hazard-based models (power-law, exponential, Weibull) fitted to USCS age–incidence, together with lifelines survival examples and colon incidence–survival cross-tables to study how age-dependent hazard and post-diagnosis lethality interact.
+- **Model A – Probabilistic Mutation-Accumulation Model**  
+  A mechanistic model of somatic driver accumulation,
+  \[
+  P(a) = 1 - (1 - p_\text{cell}(a))^M ,
+  \]
+  where \(p_\text{cell}(a)\) depends on **per-division driver mutation probability** \(p\), **stem-cell divisions per year**, **clonal threshold** \(C\), and **DNA repair efficiency** \(r\).  
+  The notebook:
+  - Fits analytic \(P(a)\) to **USCS all-sites and colon age–incidence curves**.
+  - Uses **grid search** to calibrate \((p, \text{divisions\_per\_year})\).
+  - Validates the analytic approximation with a **Monte Carlo simulator**.
+  - Performs an **ablation study** over \(C\) and \(r\).
+  - Evaluates a **single calibrated parameter set across multiple cancer sites**, showing where a shared mutation-accumulation mechanism works well or breaks down.
+
+- **Model B – Replicative-Risk / LSCD-Style Model**  
+  A cross-tissue, log–log regression inspired by Tomasetti & Vogelstein (2015),
+  linking mid-life incidence to a **Lifetime Stem Cell Division (LSCD)-style covariate**.  
+  Using an explicit `LSCD_example.csv` table, the notebook:
+  - Builds **cross-tissue log–log regressions** of incidence vs LSCD.
+  - Extracts **mid-life incidence (50–69 years)** from USCS for several major sites.
+  - Summarizes **USCS incidence vs TCGA DR44 project coverage**, and
+  - Studies how **LSCD residuals correlate with TCGA coverage**, highlighting tissues that are over‑ or under‑represented in current genomics data.
+
+- **Model C – Deterministic Hazard / Empirical Regression Models**  
+  A family of **parametric hazard models** (power-law, exponential, Weibull) and survival tools that connect incidence to **post‑diagnosis lethality**.  
+  The notebook:
+  - Fits **multi-site Weibull hazard models** to USCS age–incidence for all sites and key tissues.
+  - Implements **manual Kaplan–Meier survival curves** on the lifelines colon dataset.
+  - Recreates **primary vs secondary shelf life** as a two-regime hazard example.
+  - Builds a **colon-specific cross-table** combining USCS incidence and lifelines colon survival by age band, making explicit how age-dependent *risk of getting cancer* and *risk of dying after diagnosis* interact.
+
+Throughout the project, **colon and rectal cancer** serve as a **reference example** that appears in all three models (USCS incidence, lifelines survival, TCGA‑COAD coverage), while **multi-site analyses** (all sites, lung, breast, prostate, etc.) demonstrate that the framework is not limited to a single disease.
 
 ## Environment and Setup
 
@@ -26,20 +56,56 @@ pip install -r requirements.txt
 
 ## Running the Notebooks
 
-The main analyses are in the Jupyter notebooks under the `notebooks/` directory:
+The main analyses are in `notebooks/` and are designed to be read as a **single narrative** rather than four unrelated scripts:
 
-- `model_a_probabilistic.ipynb`: Probabilistic mutation-accumulation model.
-- `model_b_replicative_risk.ipynb`: LSCD-based replicative-risk baseline.
-- `model_c_deterministic_hazard.ipynb`: Deterministic hazard / Cox-style models.
-- `visualization_examples.ipynb`: Visualization and exploratory plots for the models and datasets.
+- **`visualization_examples.ipynb` – Data and narrative warm‑up**  
+  - Introduces **USCS age–incidence curves** for all sites and selected tissues.  
+  - Provides first visual links to **TCGA DR44 coverage**.
 
-You can start Jupyter and open these notebooks with:
+- **`model_a_probabilistic.ipynb` – Model A: probabilistic mutation accumulation**  
+  - Calibrates the mechanistic model \(P(a)\) to **USCS all-sites and colon incidence**.  
+  - Runs **grid search**, **Monte Carlo validation**, **C/r ablation**, and **multi-site evaluation with shared parameters**.
+
+- **`model_b_replicative_risk.ipynb` – Model B: LSCD / replicative risk**  
+  - Builds **cross-tissue log–log regressions** using `LSCD_example.csv`.  
+  - Connects **USCS mid-life incidence** with **TCGA DR44 project coverage** and LSCD residuals.
+
+- **`model_c_deterministic_hazard.ipynb` – Model C: deterministic hazard and survival**  
+  - Compares **power-law, exponential, and Weibull hazard families** on USCS age–incidence.  
+  - Uses **lifelines `shelflife.csv`** to illustrate primary vs secondary hazard regimes.  
+  - Uses **lifelines `colon.csv`** to build Kaplan–Meier curves and a **colon incidence–survival cross-table**.
+
+You can start Jupyter and open the notebooks with:
 
 ```bash
-jupyter notebook notebooks/model_b_replicative_risk.ipynb
+jupyter notebook notebooks/visualization_examples.ipynb
 ```
 
-or open any of the other notebooks listed above.
+and then work through Models A–C in order.
+
+## Alignment with the Proposal
+
+This project implements the core ideas of the original proposal, with some deliberate simplifications:
+
+- **Implemented as proposed**
+  - Age-dependent incidence modeling for **all cancer sites** and **multiple individual sites** (USCS BYAGE).
+  - Mechanistic **probabilistic mutation-accumulation framework** (Model A) with parameters \(p\), \(M\), \(C\), and \(r\), fitted to real data.
+  - **Cross-tissue LSCD-style regressions** and **replicative-risk interpretation** (Model B).
+  - **Deterministic hazard families** and **survival analysis tools** (Model C), including manual Kaplan–Meier curves and multi-site Weibull fits.
+  - **Three-scale linkage**:
+    - Population: USCS incidence curves.
+    - Individual: lifelines survival datasets.
+    - Tumor genomics: TCGA DR44 project‑level coverage summaries.
+
+- **Simplifications and limitations (for future extensions)**
+  - Model A currently uses **fixed \(p\)** per fit, rather than a full **LogNormal hierarchical prior for \(p\)** across tissues.  
+  - Monte Carlo simulations are calibrated for **demonstrating agreement with the analytic formula**, not for exhaustive \(10^6\)-cell simulations over all parameter settings.  
+  - LSCD values are stored in an **approximate `LSCD_example.csv`**, not the full table from the original Science supplement.  
+  - Model C relies on **deterministic hazard and manual Kaplan–Meier**, rather than a full Cox PH implementation with Brier score and time‑dependent AUC.  
+  - TCGA DR44 is used at the level of **project/file counts**; per-tumor mutation burdens are outlined conceptually but not computed from VCFs in this version.
+
+These design choices keep the code **fully runnable within a course project setting**, while still delivering the main scientific message of the proposal:  
+**cancer risk is an age-accumulating process whose incidence curves, survival shapes, and genomic representation can be linked coherently across population, individual, and tumor scales.**
 
 ## Key References and External Resources
 

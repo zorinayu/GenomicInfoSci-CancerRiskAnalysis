@@ -58,6 +58,13 @@ outputs/
 *.pdf
 *.jpg
 
+# Do not upload course export, paper sources, slides, raw data, or helper scripts
+course_files_export/
+paper/
+presentation/
+data/
+scripts/
+
 # Logs
 *.log
 
