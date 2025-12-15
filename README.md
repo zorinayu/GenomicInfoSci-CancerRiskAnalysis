@@ -2,6 +2,8 @@
 
 Comparative modeling of somatic mutation accumulation and survival for **age‑dependent cancer risk**.
 
+This is a **course-based project** for **ECBME4060_001_2025_3 - INTRO-GENOMIC INFO SCI & TECH Assignments**.
+
 ## Project Overview
 
 This project implements the proposal of building a **unified, age-dependent cancer risk framework** on three data layers and three models:
